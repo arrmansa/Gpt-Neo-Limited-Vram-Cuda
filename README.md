@@ -1,8 +1,8 @@
 # This repository is now obsolete, and replaced with : 
-Model running : 
-https://github.com/arrmansa/Basic-UI-for-GPT-Neo-with-low-vram
-Benchmarking : 
-https://github.com/arrmansa/Gpu-bandwidth-benchmark
+Model running : <br>
+https://github.com/arrmansa/Basic-UI-for-GPT-Neo-with-low-vram <br>
+Benchmarking : <br>
+https://github.com/arrmansa/Gpu-bandwidth-benchmark <br>
 
 
 # Gpt-Neo-Limited-Vram-Cuda
