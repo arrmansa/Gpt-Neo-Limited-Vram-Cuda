@@ -3,6 +3,7 @@ Model running : <br>
 https://github.com/arrmansa/Basic-UI-for-GPT-Neo-with-low-vram <br>
 Benchmarking : <br>
 https://github.com/arrmansa/Gpu-bandwidth-benchmark <br>
+The new notebooks are significantly (>2x) faster use less vram (3gb instead of 6gb), tunable and contain an actual UI. <br>
 
 
 # Gpt-Neo-Limited-Vram-Cuda
